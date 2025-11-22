@@ -1,0 +1,7 @@
+{
+	"name":"bigger-message",
+	"displayName":"Bigger Messages",
+	"description":"Adds messages with bigger input sizes.",
+	"minGameVersion":"136",
+	"hidden":false
+}

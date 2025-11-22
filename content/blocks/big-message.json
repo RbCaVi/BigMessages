@@ -1,0 +1,14 @@
+{
+	"name":"big-message",
+	"type":"MessageBlock",
+	"size":2,
+	"maxTextLength":1000,
+	"maxNewlines":100,
+	"research":"message",
+	"category":"logic",
+	"requirements": [
+		{ "item": "graphite", "amount": 10},
+		{ "item": "phase-fabric", "amount": 10 },
+		{ "item": "copper", "amount": 10 },
+	],
+}
